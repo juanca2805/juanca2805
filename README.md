@@ -1,10 +1,9 @@
 <div align="center">
   
-<!-- <img href="https://www.linkedin.com/in/crackingdemon" src="https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin"/> -->
+<!-- <img href="https://www.linkedin.com/in/juan-camilo-pedraza-sandoval-6736b0261/" src="https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin"/> -->
   
-[![linkedin badge](https://img.shields.io/badge/Sourav-Raj-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/crackingdemon)
-[![twitter badge](https://img.shields.io/badge/@crackingdemon-30302f?style=flat&logo=twitter)](https://twitter.com/crackingdemon)
-[![medium badge](https://img.shields.io/badge/Sourav_Raj-30302f?style=flat&logo=medium)](https://medium.com/@crackingdemon)
+[![linkedin badge](https://img.shields.io/badge/Juan-Camilo-30302f?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/juan-camilo-pedraza-sandoval-6736b0261/)
+
 
 
 <h1>hola, Soy Juan Camilo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
