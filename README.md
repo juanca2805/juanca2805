@@ -1,6 +1,6 @@
 <div align="center">
   
-<!-- <img href="https://www.linkedin.com/in/juan-camilo-pedraza-sandoval-6736b0261/" src="https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin"/> -->
+<!-- <img href="https://www.linkedin.com/in/juan-camilo-pedraza-sandoval/" src="https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin"/> -->
   
 [![linkedin badge](https://img.shields.io/badge/Juan-Camilo-30302f?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/juan-camilo-pedraza-sandoval-6736b0261/)
 
