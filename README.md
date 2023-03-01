@@ -18,7 +18,8 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 Estudiando el stack mern 
-- 🌱 Desarrolador junior expecializandose en javaScript y Java
+- 🌱 Desarrollador junior expecializandose en javaScript y Java
+- ⚡ Desarrollador de aplicaciones web
 
 <br/>
 
