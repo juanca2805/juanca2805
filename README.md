@@ -17,8 +17,8 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on React js
-- 🌱 On my way to learn Three js and Blender
+- 🔭 Estudiando el stack mern 
+- 🌱 Desarrolador junior expecializandose en javaScript y Java
 
 <br/>
 
