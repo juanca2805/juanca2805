@@ -20,6 +20,7 @@
 - 🔭 Estudiando el stack mern 
 - 🌱 Desarrollador junior expecializandose en javaScript y Java
 - ⚡ Desarrollador de aplicaciones web
+- 🐘 Bases de datos SQL y NOSQL(MongoDB)
 
 <br/>
 
