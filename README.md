@@ -34,6 +34,7 @@
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=ffffff" alt="npm" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target:"_blank"> <img src="https://cursosdedesarrollo.com/wp-content/uploads/2019/08/Moby-logo.png" 
  alt="docker" width="40" height="40"/> </a>
+ <a href="https://github.com/" target:"_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"  alt="git" width="40" height="40"/> </a>
 
 
 <h3 align="center">My GitHub Stats 📊 </h3>
