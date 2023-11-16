@@ -35,7 +35,7 @@
  alt="docker" width="40" height="40"/> </a>
  <a href="https://github.com/" target:"_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"  alt="git" width="40" height="40"/> </a>
   <a href="https://www.java.com/es/" target:"_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"  alt="java" width="40" height="40"/> </a>
-   <a href="https://spring.io" target:"_blank"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*8L-t1eToyCTVO3dH6--gZw.png"  alt="spring" width="40" height="40"/> </a>
+   <a href="https://spring.io" target:"_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*CIHazLUXhBCxiho2mE2glQ.png"  alt="spring" width="40" height="40"/> </a>
 
 
 
